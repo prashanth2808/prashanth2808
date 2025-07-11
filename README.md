@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&width=435&separator=%3C&lines=%3E+whoami+%3CPrashanth%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3C%3E+mission%3C%22To+turn+%E2%98%95+into+%F0%9F%92%BB+and+bugs+into+features.%22%3C%3E+motto%3Cif+(failure)+%7B%3C++++workHard();%3C++++neverGiveUp();%3C%7D)](https://git.io/typing-svg)
 <!--
 **prashanth2808/prashanth2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
