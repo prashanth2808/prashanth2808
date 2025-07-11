@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&width=500&height=100&separator=%3C&lines=%3E+whoami%3CPrashanth%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3C%22To+turn+%E2%98%95+into+%F0%9F%92%BB+and+bugs+into+features.%22%3C%3E+motto%3Cif+(failure)+%7B%3C++++workHard();%3C++++neverGiveUp();%3C%7D)](https://git.io/typing-svg)
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&background=000000&width=700&height=200&lines=%3Ciframe+++src%3D%22https%3A%2F%2Fyour-username.games%2Fsnake%22+++width%3D%22400%22+height%3D%22200%22%3E+%3C%2Fiframe%3E)](https://git.io/typing-svg)<!--
 **prashanth2808/prashanth2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
